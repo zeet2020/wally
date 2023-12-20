@@ -1,8 +1,13 @@
-first react-native application 
-
-screenshot of app 
-
-https://raw.githubusercontent.com/zeet2020/wally/master/screenshot/Screenshot_2020-10-11-11-16-17-737_com.wally.jpg
+## react-native application 
+ - uses pixabay API to search and lsit wallpapers
+ - pixabay api is need to run the application  
 
 
-https://raw.githubusercontent.com/zeet2020/wally/master/screenshot/Screenshot_2020-10-11-11-16-17-737_com.wally.jpg
+# screenshot of app 
+
+![screenshot 1](./screenshot/Screenshot_2020-10-11-11-16-17-737_com.wally.jpg)
+
+
+![screenshot 2](./screenshot/Screenshot_2020-10-11-11-16-17-737_com.wally.jpg)
+
+
